@@ -22,30 +22,30 @@ The instructor will present the fundamental elements involved in the field throu
 5. Challenges in Artificial Vision.
 6. Applications.
 
-**Image Acquisition **
+**Image Acquisition**
 1. Digital Images.
 2. Characteristics of Digital Images.
 3. Data Repositories.
 
-**Image Processing **
+**Image Processing**
 1. Operators in the Spatial Domain.
 2. Operators in the Frequency Domain.
 
-**Image Segmentation **
+**Image Segmentation**
 1. Segmentation Using Thresholding.
 2. Segmentation Based on Edge Detection.
 3. Segmentation Based on Regions.
 
-**Morphological Transformations **
+**Morphological Transformations**
 1. Morphological Operations.
 2. Morphology in Grayscale Images.
 
-**Feature Extraction and Selection **
+**Feature Extraction and Selection**
 1. Introduction.
 2. Feature Extraction.
 3. Feature Selection.
 
-**Pattern Recognition **
+**Pattern Recognition**
 1. Introduction.
 2. Supervised Classification.
 3. Unsupervised Classification.
